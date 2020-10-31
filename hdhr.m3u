@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:0,1: Das Erste HD
+http://hdhr.fritz.box:5004/auto/v1
+#EXTINF:0,2: ZDF HD
+http://hdhr.fritz.box:5004/auto/v2
+#EXTINF:0,9: 3sat HD
+http://hdhr.fritz.box:5004/auto/v9
+#EXTINF:0,10: arte HD
+http://hdhr.fritz.box:5004/auto/v10
+#EXTINF:0,20: WDR Köln HD
+http://hdhr.fritz.box:5004/auto/v20
+#EXTINF:0,31: hr-fernsehen HD
+http://hdhr.fritz.box:5004/auto/v31
+#EXTINF:0,32: BR Fernsehen S
+http://hdhr.fritz.box:5004/auto/v32
+#EXTINF:0,34: MDR Thüringen
+http://hdhr.fritz.box:5004/auto/v34
+#EXTINF:0,37: NDR Niedersachs
+http://hdhr.fritz.box:5004/auto/v37
+#EXTINF:0,42: rbb Berlin HD
+http://hdhr.fritz.box:5004/auto/v42
+#EXTINF:0,44: Radio Bremen TV
+http://hdhr.fritz.box:5004/auto/v44
+#EXTINF:0,46: SWR BW HD
+http://hdhr.fritz.box:5004/auto/v46
+#EXTINF:0,121: ZDFinfo HD
+http://hdhr.fritz.box:5004/auto/v121
+#EXTINF:0,125: ARD-alpha HD
+http://hdhr.fritz.box:5004/auto/v125
+#EXTINF:0,181: KiKA HD
+http://hdhr.fritz.box:5004/auto/v181
+#EXTINF:0,200: ZDF_neo HD
+http://hdhr.fritz.box:5004/auto/v200
+#EXTINF:0,208: ONE HD
+http://hdhr.fritz.box:5004/auto/v208
+#EXTINF:0,242: Sky Sport News
+http://hdhr.fritz.box:5004/auto/v242
+#EXTINF:0,261: PHOENIX HD
+http://hdhr.fritz.box:5004/auto/v261
+#EXTINF:0,264: tagesschau24 HD
+http://hdhr.fritz.box:5004/auto/v264
+#EXTINF:0,303: RTL Television
+http://hdhr.fritz.box:5004/auto/v303
+#EXTINF:0,304: SAT.1
+http://hdhr.fritz.box:5004/auto/v304
+#EXTINF:0,305: ProSieben
+http://hdhr.fritz.box:5004/auto/v305
+#EXTINF:0,306: VOX
+http://hdhr.fritz.box:5004/auto/v306
+#EXTINF:0,307: kabel eins
+http://hdhr.fritz.box:5004/auto/v307
+#EXTINF:0,308: RTLZWEI
+http://hdhr.fritz.box:5004/auto/v308
+#EXTINF:0,399: GigaTV
+http://hdhr.fritz.box:5004/auto/v399
+#EXTINF:0,420: DMAX
+http://hdhr.fritz.box:5004/auto/v420
+#EXTINF:0,422: TLC
+http://hdhr.fritz.box:5004/auto/v422
+#EXTINF:0,423: kabel eins Doku
+http://hdhr.fritz.box:5004/auto/v423
+#EXTINF:0,424: N24 Doku
+http://hdhr.fritz.box:5004/auto/v424
+#EXTINF:0,460: COMEDY CENTRAL
+http://hdhr.fritz.box:5004/auto/v460
+#EXTINF:0,461: DELUXE MUSIC
+http://hdhr.fritz.box:5004/auto/v461
+#EXTINF:0,462: Deutsches Musik
+http://hdhr.fritz.box:5004/auto/v462
+#EXTINF:0,463: MTV
+http://hdhr.fritz.box:5004/auto/v463
+#EXTINF:0,480: Super RTL
+http://hdhr.fritz.box:5004/auto/v480
+#EXTINF:0,482: nick/MTV+
+http://hdhr.fritz.box:5004/auto/v482
+#EXTINF:0,501: Nitro
+http://hdhr.fritz.box:5004/auto/v501
+#EXTINF:0,502: SAT.1 GOLD
+http://hdhr.fritz.box:5004/auto/v502
+#EXTINF:0,503: Tele 5
+http://hdhr.fritz.box:5004/auto/v503
+#EXTINF:0,505: SIXX
+http://hdhr.fritz.box:5004/auto/v505
+#EXTINF:0,506: ProSieben MAXX
+http://hdhr.fritz.box:5004/auto/v506
+#EXTINF:0,507: RTLplus
+http://hdhr.fritz.box:5004/auto/v507
+#EXTINF:0,540: SPORT1
+http://hdhr.fritz.box:5004/auto/v540
+#EXTINF:0,541: EUROSPORT 1
+http://hdhr.fritz.box:5004/auto/v541
+#EXTINF:0,542: Sky Sport News
+http://hdhr.fritz.box:5004/auto/v542
+#EXTINF:0,560: WELT
+http://hdhr.fritz.box:5004/auto/v560
+#EXTINF:0,562: ntv
+http://hdhr.fritz.box:5004/auto/v562
+#EXTINF:0,563: euronews (D)
+http://hdhr.fritz.box:5004/auto/v563
+#EXTINF:0,570: Al Jazeera Inte
+http://hdhr.fritz.box:5004/auto/v570
+#EXTINF:0,572: Bloomberg
+http://hdhr.fritz.box:5004/auto/v572
+#EXTINF:0,575: CNBC
+http://hdhr.fritz.box:5004/auto/v575
+#EXTINF:0,576: CNN
+http://hdhr.fritz.box:5004/auto/v576
+#EXTINF:0,577: France 24 (in E
+http://hdhr.fritz.box:5004/auto/v577
+#EXTINF:0,679: Nederland 2
+http://hdhr.fritz.box:5004/auto/v679
+#EXTINF:0,682: TV5MONDE Europe
+http://hdhr.fritz.box:5004/auto/v682
