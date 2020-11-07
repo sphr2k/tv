@@ -1,115 +1,111 @@
-#EXTM3U
-#EXTINF:0,1: Das Erste HD
+#EXTM3U url-tvg="http://m3u4u.com/epg/5z3end153eh4wxdyqpk7"
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste HD",Das Erste HD
 http://hdhr.fritz.box:5004/auto/v1
-#EXTINF:0,2: ZDF HD
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF HD",ZDF HD
 http://hdhr.fritz.box:5004/auto/v2
-#EXTINF:0,9: 3sat HD
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat HD",3sat HD
 http://hdhr.fritz.box:5004/auto/v9
-#EXTINF:0,10: arte HD
+#EXTINF:-1 tvg-id="ARTE" tvg-name="arte HD",arte HD
 http://hdhr.fritz.box:5004/auto/v10
-#EXTINF:0,20: WDR Köln HD
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR HD",WDR HD
 http://hdhr.fritz.box:5004/auto/v20
-#EXTINF:0,31: hr-fernsehen HD
+#EXTINF:-1 tvg-id="hr" tvg-name="hr HD ",hr HD 
 http://hdhr.fritz.box:5004/auto/v31
-#EXTINF:0,32: BR Fernsehen S
+#EXTINF:-1 tvg-id="BR Süd" tvg-name="BR HR",BR HR
 http://hdhr.fritz.box:5004/auto/v32
-#EXTINF:0,34: MDR Thüringen
+#EXTINF:-1 tvg-id="MDR Thüringen" tvg-name="MDR HD",MDR HD
 http://hdhr.fritz.box:5004/auto/v34
-#EXTINF:0,37: NDR Niedersachs
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR HR",NDR HR
 http://hdhr.fritz.box:5004/auto/v37
-#EXTINF:0,42: rbb Berlin HD
+#EXTINF:-1 tvg-id="rbb Berlin" tvg-name="rbb HD",rbb HD
 http://hdhr.fritz.box:5004/auto/v42
-#EXTINF:0,44: Radio Bremen TV
-http://hdhr.fritz.box:5004/auto/v44
-#EXTINF:0,46: SWR BW HD
+#EXTINF:-1 tvg-id="SWR BW" tvg-name="SWR HD",SWR HD
 http://hdhr.fritz.box:5004/auto/v46
-#EXTINF:0,121: ZDFinfo HD
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDFinfo HD",ZDFinfo HD
 http://hdhr.fritz.box:5004/auto/v121
-#EXTINF:0,125: ARD-alpha HD
+#EXTINF:-1 tvg-id="ARD-alpha" tvg-name="ARD-alpha HD",ARD-alpha HD
 http://hdhr.fritz.box:5004/auto/v125
-#EXTINF:0,181: KiKA HD
+#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA HD",KiKA HD
 http://hdhr.fritz.box:5004/auto/v181
-#EXTINF:0,200: ZDF_neo HD
+#EXTINF:-1 tvg-id="zdf_neo" tvg-name="ZDF_neo HD",ZDF_neo HD
 http://hdhr.fritz.box:5004/auto/v200
-#EXTINF:0,208: ONE HD
+#EXTINF:-1 tvg-id="ONE" tvg-name="ONE HD",ONE HD
 http://hdhr.fritz.box:5004/auto/v208
-#EXTINF:0,242: Sky Sport News
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News",Sky Sport News
 http://hdhr.fritz.box:5004/auto/v242
-#EXTINF:0,261: PHOENIX HD
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="PHOENIX HD",PHOENIX HD
 http://hdhr.fritz.box:5004/auto/v261
-#EXTINF:0,264: tagesschau24 HD
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="tagesschau24 HD",tagesschau24 HD
 http://hdhr.fritz.box:5004/auto/v264
-#EXTINF:0,303: RTL Television
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Television",RTL Television
 http://hdhr.fritz.box:5004/auto/v303
-#EXTINF:0,304: SAT.1
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="SAT.1",SAT.1
 http://hdhr.fritz.box:5004/auto/v304
-#EXTINF:0,305: ProSieben
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben",ProSieben
 http://hdhr.fritz.box:5004/auto/v305
-#EXTINF:0,306: VOX
+#EXTINF:-1 tvg-id="VOX" tvg-name="VOX",VOX
 http://hdhr.fritz.box:5004/auto/v306
-#EXTINF:0,307: kabel eins
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="kabel eins",kabel eins
 http://hdhr.fritz.box:5004/auto/v307
-#EXTINF:0,308: RTLZWEI
+#EXTINF:-1 tvg-id="RTLZWEI" tvg-name="RTLZWEI",RTLZWEI
 http://hdhr.fritz.box:5004/auto/v308
-#EXTINF:0,399: GigaTV
-http://hdhr.fritz.box:5004/auto/v399
-#EXTINF:0,420: DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX",DMAX
 http://hdhr.fritz.box:5004/auto/v420
-#EXTINF:0,422: TLC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC",TLC
 http://hdhr.fritz.box:5004/auto/v422
-#EXTINF:0,423: kabel eins Doku
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="kabel eins Doku",kabel eins Doku
 http://hdhr.fritz.box:5004/auto/v423
-#EXTINF:0,424: N24 Doku
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku",N24 Doku
 http://hdhr.fritz.box:5004/auto/v424
-#EXTINF:0,460: COMEDY CENTRAL
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
 http://hdhr.fritz.box:5004/auto/v460
-#EXTINF:0,461: DELUXE MUSIC
+#EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="DELUXE MUSIC",DELUXE MUSIC
 http://hdhr.fritz.box:5004/auto/v461
-#EXTINF:0,462: Deutsches Musik
+#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen" tvg-name="Deutsches Musik Fernsehen",Deutsches Musik Fernsehen
 http://hdhr.fritz.box:5004/auto/v462
-#EXTINF:0,463: MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV",MTV
 http://hdhr.fritz.box:5004/auto/v463
-#EXTINF:0,480: Super RTL
+#EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL",Super RTL
 http://hdhr.fritz.box:5004/auto/v480
-#EXTINF:0,482: nick/MTV+
+#EXTINF:-1 tvg-id="Nick/MTV+" tvg-name="nick/MTV+",nick/MTV+
 http://hdhr.fritz.box:5004/auto/v482
-#EXTINF:0,501: Nitro
+#EXTINF:-1 tvg-id="NITRO" tvg-name="Nitro",Nitro
 http://hdhr.fritz.box:5004/auto/v501
-#EXTINF:0,502: SAT.1 GOLD
+#EXTINF:-1 tvg-id="SAT.1 GOLD" tvg-name="SAT.1 GOLD",SAT.1 GOLD
 http://hdhr.fritz.box:5004/auto/v502
-#EXTINF:0,503: Tele 5
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5",Tele 5
 http://hdhr.fritz.box:5004/auto/v503
-#EXTINF:0,505: SIXX
+#EXTINF:-1 tvg-id="sixx" tvg-name="SIXX",SIXX
 http://hdhr.fritz.box:5004/auto/v505
-#EXTINF:0,506: ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="ProSieben MAXX",ProSieben MAXX
 http://hdhr.fritz.box:5004/auto/v506
-#EXTINF:0,507: RTLplus
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="RTLplus",RTLplus
 http://hdhr.fritz.box:5004/auto/v507
-#EXTINF:0,540: SPORT1
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="SPORT1",SPORT1
 http://hdhr.fritz.box:5004/auto/v540
-#EXTINF:0,541: EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1",EUROSPORT 1
 http://hdhr.fritz.box:5004/auto/v541
-#EXTINF:0,542: Sky Sport News
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News",Sky Sport News
 http://hdhr.fritz.box:5004/auto/v542
-#EXTINF:0,560: WELT
+#EXTINF:-1 tvg-id="WELT" tvg-name="WELT",WELT
 http://hdhr.fritz.box:5004/auto/v560
-#EXTINF:0,562: ntv
+#EXTINF:-1 tvg-id="n-tv" tvg-name="ntv",ntv
 http://hdhr.fritz.box:5004/auto/v562
-#EXTINF:0,563: euronews
+#EXTINF:-1 tvg-id="EuroN D" tvg-name="euronews",euronews
 http://hdhr.fritz.box:5004/auto/v563
-#EXTINF:0,570: Al Jazeera Inte
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera",Al Jazeera
 http://hdhr.fritz.box:5004/auto/v570
-#EXTINF:0,572: Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg Europe TV" tvg-name="Bloomberg",Bloomberg
 http://hdhr.fritz.box:5004/auto/v572
-#EXTINF:0,575: CNBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC",CNBC
 http://hdhr.fritz.box:5004/auto/v575
-#EXTINF:0,576: CNN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN",CNN
 http://hdhr.fritz.box:5004/auto/v576
-#EXTINF:0,577: France 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24",France 24
 http://hdhr.fritz.box:5004/auto/v577
-#EXTINF:0,679: Nederland 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nederland 2",Nederland 2
 http://hdhr.fritz.box:5004/auto/v679
-#EXTINF:0,682: TV5MONDE Europe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5MONDE Europe",TV5MONDE Europe
 http://hdhr.fritz.box:5004/auto/v682
-#EXTINF:0,700: CNN HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN HD",CNN HD
 https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_6_3628000.m3u8
