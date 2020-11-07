@@ -95,7 +95,7 @@ http://hdhr.fritz.box:5004/auto/v542
 http://hdhr.fritz.box:5004/auto/v560
 #EXTINF:0,562: ntv
 http://hdhr.fritz.box:5004/auto/v562
-#EXTINF:0,563: euronews (D)
+#EXTINF:0,563: euronews
 http://hdhr.fritz.box:5004/auto/v563
 #EXTINF:0,570: Al Jazeera Inte
 http://hdhr.fritz.box:5004/auto/v570
@@ -105,9 +105,11 @@ http://hdhr.fritz.box:5004/auto/v572
 http://hdhr.fritz.box:5004/auto/v575
 #EXTINF:0,576: CNN
 http://hdhr.fritz.box:5004/auto/v576
-#EXTINF:0,577: France 24 (in E
+#EXTINF:0,577: France 24
 http://hdhr.fritz.box:5004/auto/v577
 #EXTINF:0,679: Nederland 2
 http://hdhr.fritz.box:5004/auto/v679
 #EXTINF:0,682: TV5MONDE Europe
 http://hdhr.fritz.box:5004/auto/v682
+#EXTINF:0,700: CNN HD
+https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_6_3628000.m3u8
